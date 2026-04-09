@@ -16,7 +16,7 @@ Developed for an **MBA in Retail Business Management**, the project integrates *
 ## 📁 Project Structure
 
 * [scripts/](scripts/): Contains the Python simulation engine for ROI calculation.
-* [data/](data/): Includes the **Executive Excel Dashboard**.
+* [data/](data/): Includes the **Executive Excel Dashboard** with 500+ simulated SKUs and pivot tables.
 * [assets/](assets/): Visual representations, architecture diagrams, and dashboard screenshots.
 * [docs/](docs/): Strategic framework, including SWOT analysis and change management pillars.
 
