@@ -81,7 +81,7 @@ This project is licensed under the MIT License.
 ---
 
 ## 🛠️ Technical Solution & Python Simulator
-The repository includes a Financial ROI Simulator [simulador_roi.py](https://github.com/annaeparrar/retail-rfid-optimization/blob/main/simulador_roi.py) written in Python. It models 1,000 SKUs over a 30-day period to quantify:
+The repository includes a Financial ROI Simulator [simulador_roi.py]([https://github.com/annaeparrar/retail-rfid-optimization/blob/main/simulador_roi.py](https://github.com/annaeparrar/retail-rfid-optimization/blob/main/scripts/simulador_roi.py)) written in Python. It models 1,000 SKUs over a 30-day period to quantify:
 1. **Revenue Recovery:** Income gained by eliminating invisible out-of-stocks.
 2. **EBITDA Impact:** The direct improvement in operating margin.
 
