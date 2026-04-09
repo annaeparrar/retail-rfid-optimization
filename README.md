@@ -1,5 +1,5 @@
 # Retail 360: Inventory Optimization via RFID & Digital Twins 🚀
-### MBA Capstone Project - Retail Business Management | Sector: Pharmacies & Supermarkets
+### Retail Business Management | Sector: Pharmacies & Supermarkets
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.9+-green.svg)
