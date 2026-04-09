@@ -19,7 +19,7 @@ Developed for an **MBA in Retail Business Management**, the project integrates *
 * [data/](data/): Includes the **Executive Excel Dashboard** with 500+ simulated SKUs and pivot tables.
 * [assets/](assets/): Visual representations, architecture diagrams, and dashboard screenshots.
 * [docs/](docs/): Strategic framework, including SWOT analysis and change management pillars.
-* [Read the full Project Case Study here](https://github.com/annaeparrar/retail-rfid-optimization/blob/d34cb793f37f4b8bda081a5a985476881d54afe4/docs/PROJECT_CHARTER.md)
+* Read the full Project Case Study here: [PROJECT_CHARTER](https://github.com/annaeparrar/retail-rfid-optimization/blob/d34cb793f37f4b8bda081a5a985476881d54afe4/docs/PROJECT_CHARTER.md)
 
 ---
 
