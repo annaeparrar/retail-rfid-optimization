@@ -36,10 +36,10 @@ In traditional retail (Barcode-based), the discrepancy between system records an
 
 ### 1. SWOT Analysis (FODA)
 
-| **Strengths (Fortalezas)** | **Weaknesses (Debilidades)** |
+| **Strengths** | **Weaknesses** |
 | :--- | :--- |
 | • 99% inventory accuracy.<br>• Real-time data for SAP/ERP integration.<br>• High scalability across branches. | • High initial hardware cost (CAPEX).<br>• Tagging costs for low-margin items. |
-| **Opportunities (Oportunidades)** | **Threats (Amenazas)** |
+| **Opportunities** | **Threats** |
 | • Omnichannel enablement (Click & Collect).<br>• Automated checkout solutions.<br>• Retail Media monetization. | • Global chip shortages (RFID supply).<br>• Resistance to process changes from staff. |
 
 ---
