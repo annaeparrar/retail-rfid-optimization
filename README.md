@@ -11,6 +11,13 @@ This project presents a strategic and technical framework to solve **"Phantom In
 
 Developed for an **MBA in Retail Business Management**, the project integrates **RFID (Radio Frequency Identification)** and **Digital Twin** technology to transition from a standard 70% inventory accuracy to a **99% precision model**. This shift directly impacts the bottom line by recovering lost sales and optimizing operational efficiency in Supermarkets and Pharmacies.
 
+## ⚙️ SAP Integration & Business Logic
+
+This project was designed by integrating core concepts from **SAP MM (Materials Management)** and **SAP FI (Financial Accounting)** modules. It simulates the interface between the physical world (RFID data) and the accounting record (ERP system):
+
+* **SAP MM Alignment:** Automated goods receipt, real-time inventory tracking, and procurement trigger points.
+* **SAP FI Alignment:** Direct impact on EBITDA, inventory valuation accuracy, and loss prevention reporting.
+
 ---
 
 ## 📁 Project Structure
