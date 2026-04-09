@@ -39,7 +39,7 @@ A successful implementation requires balancing the initial investment against lo
 
 #### **CAPEX (Capital Expenditure)**
 * **Hardware:** RFID Portals (receiving docks), fixed overhead antennas, and handheld readers.
-* **Infrastructure:** Server upgrades and middleware integration with existing ERP (e.g., **SAP FI/CO/MM**).
+* **Infrastructure:** Server upgrades and middleware integration with existing ERP (**SAP FI/CO/MM**).
 * **Software:** Digital Twin visualization platform and AI alerting engine.
 
 #### **OPEX (Operational Expenditure)**
@@ -56,7 +56,7 @@ Technology alone does not drive ROI; people do. The transition strategy follows 
 
 1.  **Skill Shift:** Moving floor staff from "manual counters" to "data-driven replenisher" roles using mobile alerts.
 2.  **Incentive Alignment:** Linking store manager bonuses to **Inventory Accuracy** rather than just sales volume.
-3.  **Phased Rollout:** Starting with high-value/high-shrinkage categories (e.g., Dermocosmetics in Pharma) to demonstrate quick wins before full-store deployment.
+3.  **Phased Rollout:** Starting with high-value/high-shrinkage categories (Dermocosmetics in Pharma) to demonstrate quick wins before full-store deployment.
 
 ---
 
